@@ -8,7 +8,7 @@
 
 ## 遊び方 / ダウンロード
 1. リリースページにアクセスします。https://github.com/osk-JAVA/Hit-and-blow/releases/
-2. 最新リリースの `hit_and_blow.html`（または `ヒットアンドブロー.html`）をダウンロードします。
+2. 最新リリースの `hit_and_blow.html`をダウンロードします。
 3. ダウンロードしたファイルをお使いのブラウザ（Chrome, Edge, Safariなど）で開くとゲームが始まります。
 
 ## ルール
@@ -18,3 +18,6 @@
 
 ## 使用技術
 * HTML / JavaScript
+
+## 問題について
+* 製作者に連絡してください
